@@ -8,7 +8,7 @@
 
 
 
-# Discord AI Bot -
+# Discord AI Bot --
 
 This is a Discord bot powered by AK DEV. It responds to questions you send in Discord.
 
